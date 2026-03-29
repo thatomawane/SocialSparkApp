@@ -21,5 +21,5 @@ Social Spark App is an Android application used to encourage users to maintain s
     ## GitHub Actions
     Automated build is set up using GitHub Actions to ensure the app builds successfully.
 [description](file-path).Screenshot 2026-03-28 230508.png
-
+[descripton](file-path).Screenshot 2026-03-29 123354.png
     Thato Mawane
